@@ -1,3 +1,3 @@
 # Laravel CRUD OPERATION
-    A basic app for implementing simple CRUD applications in laravel.
+    A basic app for implementing simple CRUD operations in laravel.
    
